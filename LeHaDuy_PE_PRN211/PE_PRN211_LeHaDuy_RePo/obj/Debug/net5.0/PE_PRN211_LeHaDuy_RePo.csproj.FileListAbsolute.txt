@@ -1,0 +1,15 @@
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\bin\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.deps.json
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\bin\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.runtimeconfig.json
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\bin\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.runtimeconfig.dev.json
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\bin\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.dll
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\bin\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.pdb
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.csproj.AssemblyReference.cache
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.AssemblyInfoInputs.cache
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.AssemblyInfo.cs
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.csproj.CoreCompileInputs.cache
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.dll
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\refint\PE_PRN211_LeHaDuy_RePo.dll
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.pdb
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\PE_PRN211_LeHaDuy_RePo.genruntimeconfig.cache
+D:\Kì 5(SWR, PRN, SWT, SWP)\PRN211\Thi thu PE\Demo_PE\DEMO_PE_PRN211\PE_PRN211_LeHaDuy_RePo\obj\Debug\net5.0\ref\PE_PRN211_LeHaDuy_RePo.dll
